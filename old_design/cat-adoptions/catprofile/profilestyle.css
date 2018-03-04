@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+/*	font-family: "DejaVu Sans", sans-serif;*/
+
+body {
+	font-family: helvetica,  sans-serif;
+}
+
+.cat-profiles-data {
+	font-weight: bold;
+}
+
+#checklist td
+{
+    padding-top: -2px;
+    padding-bottom: -2px;
+}
+
+.profile-attr-yes {
+	font-family: "DejaVu Sans", sans-serif;
+    color: green;
+}
+
+.profile-attr-no { 
+	font-family: "DejaVu Sans", sans-serif;
+    color: red;
+}
+
+.profile-attr-maybe {
+	font-family: "DejaVu Sans", sans-serif;
+    color: orange;
+}
+
+#catname {
+	font-family: "times", serief;
+	color: rgb(205,10,32);
+	font-size:60px;
+	margin-top:0px;
+	padding-top:0px;
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+#catinfo {
+	margin-top:00px;
+	padding-top:0px;
+	}
+
+#endline {
+	padding-top: 10px;
+	text-align:center;
+	font-size:120%;
+}
+
+.is_declawed {
+		font-weight: bold;
+	color: rgb(205,10,32);
+}
+	
+#textbody strong {
+	line-height:300%;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "petpatrol",
+  "version": "0.0.1",
+  "description": "Wordpress Theme and Plugin for the petpatrol.ca Website",
+  "keywords": [
+    "petpatrol",
+    "cat rescue",
+    "animal shelter"
+  ],
+  "author": "Adrian Waddell <adrian@waddell.ch>",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "grunt-sync": "^0.6.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-sync": "^0.6.2"
+  }
+}

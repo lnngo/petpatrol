@@ -1,0 +1,51 @@
+
+
+header {
+	margin-bottom: 30px;
+}
+
+.jumbotron {
+	margin-bottom: 15px;
+}
+
+body {
+	background-color: #ff8700;
+}
+
+.container {
+	background-color: white;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+
+
+.profile-attr-yes {
+    color: green;
+}
+
+.profile-attr-no {
+    color: red;
+}
+
+.profile-attr-maybe {
+    color: orange;
+}
+
+.isKitten {
+   color: green;
+}
+
+.isAdopted {
+   color: red;
+}
+
+.needsFoster {
+   color: green;
+}
+
+.is_declawed {
+   color: black;
+   font-weight:bold;
+}
+

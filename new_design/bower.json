@@ -1,0 +1,27 @@
+{
+  "name": "petpatrol",
+  "description": "Wordpress Theme and Plugin for the petpatrol.ca Website",
+  "main": "",
+  "authors": [
+    "Adrian Waddell <adrian@waddell.ch>"
+  ],
+  "license": "GPL-2.0",
+  "keywords": [
+    "petpatrol",
+    "cat",
+    "rescue",
+    "animal",
+    "shelter"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

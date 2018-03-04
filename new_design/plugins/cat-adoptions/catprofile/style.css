@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#img-prev {
+	background: #D8D8D8;
+	padding: 30px;
+	text-align: center;
+}
+#img-prev img {
+	max-width: 30%;
+	height: auto;
+	margin: 10px;
+}
+#nextbutton {
+	background: #D8D8D8;
+	text-align: center;
+	padding: 20px;
+}
